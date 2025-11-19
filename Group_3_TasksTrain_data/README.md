@@ -1,8 +1,8 @@
 # Group - 3
 
-* Name - 1
-* Name - 2
-* Name - 3
+* Name - Balakarthik Senthilvel Palani
+* Name - Sugin Sukumaran
+* Name - Alex Prediger
 
 ## Best Results
 | Group | Test RMSE [m/s] 
