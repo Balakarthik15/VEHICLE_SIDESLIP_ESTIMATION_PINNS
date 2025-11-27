@@ -7,4 +7,4 @@
 ## Best Results
 | Group | Test RMSE [m/s] 
 --| --|
-| Group - 3 | none |
+| Group - 3 | 0.3433|
