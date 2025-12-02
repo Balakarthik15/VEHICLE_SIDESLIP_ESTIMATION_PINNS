@@ -7,6 +7,6 @@
 ## Best Results
 | Group | Test RMSE [m/s] 
 --| --|
-| Group - 3 | 0.3433|
+| Group - 3 | 0.15|
 
-## Group_3_TasksTrain_data\processMatFile_Task3_2411_updated.ipynb"
+## Group_3_TasksTrain_data\PINNModel_StateEstimation_Task.ipynb"
