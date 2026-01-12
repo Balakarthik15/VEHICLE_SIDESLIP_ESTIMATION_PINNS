@@ -5,8 +5,9 @@
 * Name - Alex Prediger
 
 ## Best Results
-| Group | Test RMSE [m/s] 
---| --|
-| Group - 3 | 0.1891|
+| Group | **Prediction RMSE** |  | **Estimation RMSE (PINN self-loop)** |  | **Estimation RMSE (Final Solution)** |  |
+|------:|----------------------|--|--------------------------------------|--|--------------------------------------|--|
+|       | *v<sub>y</sub> [m/s]* | *β [deg]* | *v<sub>y</sub> [m/s]* | *β [deg]* | *v<sub>y</sub> [m/s]* | *β [deg]* |
+|3     | 0.1713            | NN / PINN | 0.8519                            | NN / PINN | 0.2853                           | NN / PINN |
 
-## Group_3_TasksTrain_data\PINNModel_StateEstimation_Task.ipynb"
+## Group_3_TasksTrain_data\PINNModel_Self_EStimation_corrector_colab.ipynb"
