@@ -8,6 +8,6 @@
 | Group | **Prediction RMSE** |  | **Estimation RMSE (PINN self-loop)** |  | **Estimation RMSE (Final Solution)** |  |
 |------:|----------------------|--|--------------------------------------|--|--------------------------------------|--|
 |       | *v<sub>y</sub> [m/s]* | *β [deg]* | *v<sub>y</sub> [m/s]* | *β [deg]* | *v<sub>y</sub> [m/s]* | *β [deg]* |
-|3     | 0.1713            | NN / PINN | 0.8519                            | NN / PINN | 0.2853                           | NN / PINN |
+|3     | 0.1579            | 0.72  | 0.8178                            | 2.36 | 0.2853                           | 0.78 |
 
 ## Group_3_TasksTrain_data\PINNModel_Self_EStimation_corrector_colab.ipynb"
