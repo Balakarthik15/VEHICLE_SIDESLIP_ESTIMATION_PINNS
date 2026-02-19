@@ -1,0 +1,12 @@
+{
+    "constant": "/content/best_model_constant.pth",
+    "exponential": "/content/best_model_exponential.pth",
+    "physics_cutoff": "/content/best_model_physics_cutoff.pth",
+    "adaptive": "/content/best_model_adaptive.pth",
+    "constant_T2": "/content/best_model_constant_T2.pth",
+    "exponential_T2": "/content/best_model_exponential_T2.pth",
+    "physics_cutoff_T2": "/content/best_model_physics_cutoff_T2.pth",
+    "adaptive_T2": "/content/best_model_adaptive_T2.pth",
+    "optuna_moo": "/content/best_model_optuna_moo.pth",
+    "random_asha": "/content/best_model_random_asha.pth"
+}
