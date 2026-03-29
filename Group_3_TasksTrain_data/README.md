@@ -1,8 +1,6 @@
 # Group - 3
 
 * Name - Balakarthik Senthilvel Palani
-* Name - Sugin Sukumaran
-* Name - Alex Prediger
 
 ## Best Results
 | Group | **Prediction RMSE** |  | **Estimation RMSE (PINN self-loop)** |  | **Estimation RMSE (Final Solution)** |  |
